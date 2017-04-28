@@ -1,10 +1,7 @@
 # AuGeo
 AuGeo - Augmented Reality for ArcGIS
 
-AuGeo, latin for augmented, is an [Esri Labs](http://labs.esri.com) initiative to explore the possibilities of using ArcGIS data in an augmented reality environment. Available to ArcGIS users for free in the iTunes (http://links.esri.com/esrilabs/augeo/ios) and Google Play (
-	http://links.esri.com/esrilabs/augeo/android
-
-) stores, the AuGeo mobile app allows you to easily bring data from your exiting ArcGIS point feature layers into an augmented reality mobile app.  Preparing your existing data for use within AuGeo is very straight-forward as described in this tutorial (http://links.esri.com/esrilabs/augeo/tutorial).
+AuGeo, latin for augmented, is an [Esri Labs](http://labs.esri.com) initiative to explore the possibilities of using ArcGIS data in an augmented reality environment. Available for free in the iTunes (http://links.esri.com/esrilabs/augeo/ios) and Google Play (http://links.esri.com/esrilabs/augeo/android) stores, the AuGeo mobile app allows you to easily bring data from your exiting ArcGIS point feature layers into an augmented reality mobile app.  Preparing your existing data for use within AuGeo is very straight-forward as described in this tutorial (http://links.esri.com/esrilabs/augeo/tutorial).
 
 We at Esri Labs see many potential uses for Augmented Reality in GIS.  While we love maps, locating assets around you can be easier through the lenses of a camera on your phone or tablet. Through an augmented reality view, we can more intuitively represent hidden assets (underground, covered by vegetation or snow), reducing the time needed for people to find what they were looking for.  Will Augmented Reality help perform asset inspections more quickly?  Will it guide rescue teams towards a fire hydrant that otherwise would be missed?  Will if provide the ultimate mobile user experience for the most technology averse real estate agent? Will it be the foundation for the next tourist guide of your city?
 

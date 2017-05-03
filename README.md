@@ -23,7 +23,7 @@ For more information on how to use AuGeo refer to the [Github Wiki](https://gith
 
 ## Developer requirements
 
-Are you a developer? AuGeo is built using <a href="http://www.esri.com/landing-pages/appstudio">AppStudio for ArcGIS</a>. The source code of this application will be made available once AppStudio 2.0 is released in July 2017 and will be available with the Standard Edition of AppStudio for ArcGIS.
+Are you a developer? AuGeo is built using <a href="http://www.esri.com/landing-pages/appstudio">AppStudio for ArcGIS</a>. The source code of this application will be made available here once AppStudio 2.0 is released in July 2017 and will also be available with the Standard Edition of AppStudio for ArcGIS.
 
 ## Issues
 

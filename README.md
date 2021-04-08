@@ -9,7 +9,7 @@ As a Research Project from Esri Labs, our intent with Augeo is to make interesti
 
 ## How to use the app
 
-Available for free in the [iTunes](http://links.esri.com/esrilabs/augeo/ios) and [Google Play](http://links.esri.com/esrilabs/augeo/android) stores, you can also download desktop installation files for the app from these urls
+Available for free in the [iTunes](http://links.esri.com/esrilabs/augeo/ios) and [Google Play](http://links.esri.com/esrilabs/augeo/android) and [Microsoft](http://links.esri.com/esrilabs/augeo/windowsstore) stores, you can also download desktop installation files for the app from these urls
 
 http://links.esri.com/esrilabs/augeo/windows
 
